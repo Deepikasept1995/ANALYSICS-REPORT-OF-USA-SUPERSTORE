@@ -46,4 +46,12 @@ Lists the five best-performing products based on sales volume.
 Time-series analysis of sales trends from 2013 to 2017.
 
 Visualizes seasonality and growth over the years with a trend line.
+##Key Metrics
+
+Sales: ₹2.30M
+Profit Margin: 12.47%
+Return Rate: 5.91%
+
+# SCREENSHOT
+![Superstore USA Analysis](
 
