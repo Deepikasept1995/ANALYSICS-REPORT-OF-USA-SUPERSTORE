@@ -53,5 +53,5 @@ Profit Margin: 12.47%
 Return Rate: 5.91%
 
 # SCREENSHOT
-![Superstore USA Analysis](
+![Superstore USA Analysis](https://github.com/Deepikasept1995/ANALYSICS-REPORT-OF-USA-SUPERSTORE/blob/main/Screenshot%202025-01-14%20122810.png)
 
